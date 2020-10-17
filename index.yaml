@@ -3,6 +3,16 @@ entries:
   infratrix:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2020-10-17T12:01:09.395354408Z"
+    description: A Helm chart for Kubernetes
+    digest: ba18798afc9e41090f4e7f131c70d35863e835f51d7382bbec0049fd5a4e5dd6
+    name: infratrix
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/infratrix-0.1.13/infratrix-0.1.13.tgz
+    version: 0.1.13
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2020-10-17T11:55:54.150441127Z"
     description: A Helm chart for Kubernetes
     digest: 4323817f44b32e4b9a0eab1d49ccf3f186b928e14a50fb9448629adc32fefb81
