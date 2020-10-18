@@ -273,6 +273,21 @@ entries:
     urls:
     - https://github.com/aspel/charts/releases/download/djangotw-0.1.0/djangotw-0.1.0.tgz
     version: 0.1.0
+  exim-smtp:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-10-18T16:02:06.535726814Z"
+    description: A Helm chart for Kubernetes
+    digest: d4f77684ac31b70ee3aa4514f563851bc20731a9e9f62367e774446ca086320f
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: exim-smtp
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/exim-smtp-0.1.0/exim-smtp-0.1.0.tgz
+    version: 0.1.0
   infratrix:
   - apiVersion: v2
     appVersion: 1.0.0
