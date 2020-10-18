@@ -425,4 +425,19 @@ entries:
     urls:
     - https://github.com/aspel/charts/releases/download/infratrix-0.1.24/infratrix-0.1.24.tgz
     version: 0.1.24
+  memcached:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-10-18T16:53:14.731593203Z"
+    description: A Helm chart for Kubernetes
+    digest: 80b55845e802a81923ce980e188baf60640cf2876d6463001d175f5724b9dee7
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: memcached
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/memcached-0.1.0/memcached-0.1.0.tgz
+    version: 0.1.0
 generated: "2020-10-17T12:58:56.314222+03:01"
