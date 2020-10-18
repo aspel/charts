@@ -18,6 +18,20 @@ entries:
   djangopoll:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2020-10-18T10:53:39.616614779Z"
+    description: A Helm chart for Kubernetes
+    digest: 2d996f96d289c1d8ea69dff452abd746aeb11ca94a91c084ac2e48a4d2bf0248
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangopoll
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangopoll-0.1.1/djangopoll-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2020-10-18T10:48:39.586879891Z"
     description: A Helm chart for Kubernetes
     digest: 62772015721b71ecfe874d164200a3b28c9ee8e3249945b6fb2d9a0bdf404d99
