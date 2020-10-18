@@ -428,6 +428,20 @@ entries:
   memcached:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2020-10-18T17:20:22.00849595Z"
+    description: A Helm chart for Kubernetes
+    digest: 7de8e7972993589ef6563e4f8d0becad74e7e206673f6e5cbd31b6a4c22af289
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: memcached
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/memcached-0.1.2/memcached-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2020-10-18T16:53:14.731593203Z"
     description: A Helm chart for Kubernetes
     digest: 80b55845e802a81923ce980e188baf60640cf2876d6463001d175f5724b9dee7
