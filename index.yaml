@@ -15,6 +15,21 @@ entries:
     urls:
     - https://github.com/aspel/charts/releases/download/djangohuote-0.1.3/djangohuote-0.1.3.tgz
     version: 0.1.3
+  djangokt:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2020-10-18T11:23:25.807850259Z"
+    description: A Helm chart for Kubernetes
+    digest: b18a609b1b27daca384d4dde3491b4f9ad20ed4bd7bad01a27784fc97a024c34
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangokt
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangokt-0.1.0/djangokt-0.1.0.tgz
+    version: 0.1.0
   djangopoll:
   - apiVersion: v2
     appVersion: 1.0.0
