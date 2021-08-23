@@ -583,6 +583,20 @@ entries:
   sktg:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-08-23T11:09:11.369535313Z"
+    description: A Helm chart for Kubernetes
+    digest: d89cfe13ac0219922e671ac9441ddede147149bb4878cb953a0c098c64b33fd4
+    maintainers:
+    - email: 1@1.net
+      name: heiho
+      url: https://app.io
+    name: sktg
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/sktg-0.4.5/sktg-0.4.5.tgz
+    version: 0.4.5
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-08-23T11:00:06.196434298Z"
     description: A Helm chart for Kubernetes
     digest: 29667bb7ad6723b54ad7d0e7b73a34bbfd4418f19f66f8295b22f070a163bbae
