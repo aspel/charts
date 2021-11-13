@@ -88,6 +88,20 @@ entries:
   djangohh:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-11-13T21:06:46.795552406Z"
+    description: A Helm chart for Kubernetes
+    digest: e6798b504deb5b1c47693e46d39dfa9f38bb1a1f27f29cf9ad55475ce9d25ce5
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangohh
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangohh-0.1.2/djangohh-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-11-13T21:03:18.172910313Z"
     description: A Helm chart for Kubernetes
     digest: d06650dafe5203bb7f9d0ac54eba8764d354f4dd6bdbdb842a054851ff44ecec
