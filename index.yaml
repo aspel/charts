@@ -3,6 +3,20 @@ entries:
   djangofex:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-11-13T20:50:13.04978874Z"
+    description: A Helm chart for Kubernetes
+    digest: 7be06755a4396887fed42a154439ec2278c06c34d192a2753df414fa7269fc0d
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangofex
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangofex-0.1.7/djangofex-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-11-13T20:25:23.569821719Z"
     description: A Helm chart for Kubernetes
     digest: fcee337e7151cc37f525ed090fd59f6e16ab56cdc57373e315f345a6bf20353b
