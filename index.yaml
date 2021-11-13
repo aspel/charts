@@ -401,6 +401,20 @@ entries:
   djangotw:
   - apiVersion: v2
     appVersion: 1.0.1
+    created: "2021-11-13T21:26:01.522995482Z"
+    description: A Helm chart for Kubernetes
+    digest: dad0a1c5bb2776ff3517dad8352bd4edf2d14d93ba8e378004926fdd813e3380
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangotw
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangotw-0.1.7/djangotw-0.1.7.tgz
+    version: 0.1.7
+  - apiVersion: v2
+    appVersion: 1.0.1
     created: "2020-11-24T22:27:56.732163346Z"
     description: A Helm chart for Kubernetes
     digest: af4313f1a3f77305d1657e283c31cf7cf70c2a07f5975d9adbcac32d4be3f28c
