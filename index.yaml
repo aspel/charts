@@ -131,6 +131,20 @@ entries:
   djangohuote:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-11-13T21:11:07.162216886Z"
+    description: A Helm chart for Kubernetes
+    digest: a756a915802fd09806d89d2bb5e253e09fe997334b42a2c4686b47374cea1fb8
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangohuote
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangohuote-0.1.4/djangohuote-0.1.4.tgz
+    version: 0.1.4
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2020-10-18T10:20:20.186144708Z"
     description: A Helm chart for Kubernetes
     digest: d2ee9fb016780b6566140c0188212c208e3e3ae133e8078101d0dc7eaf49f682
