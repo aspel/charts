@@ -372,6 +372,20 @@ entries:
   djangopv:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-11-13T21:22:22.549476713Z"
+    description: A Helm chart for Kubernetes
+    digest: 03d9f4fed0fd3627e1bbcec54aedae58179a0ab1d7a98201808c5e86882b7ff9
+    maintainers:
+    - email: 1@1.net
+      name: hihi
+      url: https://app.io
+    name: djangopv
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangopv-0.1.1/djangopv-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2020-10-18T15:11:16.008458459Z"
     description: A Helm chart for Kubernetes
     digest: 3ebe72266bc5eec08ef78a2ff45df33b90f1986be341b0a2d3b15b8b9440ae8b
