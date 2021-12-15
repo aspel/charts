@@ -708,6 +708,20 @@ entries:
   instable:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2021-12-15T12:12:22.526329914Z"
+    description: A Helm chart for Kubernetes
+    digest: 713e85650c91f77e67af60e6d3ac86441d41da45cff28d17534876dced938d6f
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: instable
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/instable-0.0.5/instable-0.0.5.tgz
+    version: 0.0.5
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2021-12-15T12:07:19.097908659Z"
     description: A Helm chart for Kubernetes
     digest: 0db8df4c2e1e236279f1f08d84c787489f21b3711c24a6a501e92bdfc4fa9595
