@@ -705,6 +705,21 @@ entries:
     urls:
     - https://github.com/aspel/charts/releases/download/infratrix-0.1.24/infratrix-0.1.24.tgz
     version: 0.1.24
+  instable:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-12-15T11:58:00.395545955Z"
+    description: A Helm chart for Kubernetes
+    digest: b33ca382de0c410d360ce6e9ec2d672b69f97e6141269a2218e7e048c8e040c0
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: instable
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/instable-0.0.2/instable-0.0.2.tgz
+    version: 0.0.2
   memcached:
   - apiVersion: v2
     appVersion: 1.0.0
