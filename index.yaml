@@ -160,6 +160,20 @@ entries:
   djangokt:
   - apiVersion: v2
     appVersion: 1.0.1
+    created: "2022-05-06T19:08:07.690066415Z"
+    description: A Helm chart for Kubernetes
+    digest: 3d7ca5ab563c8c01065c5b472a598e3bd1ccd9df6cec78be5e3dbbeea0c1df15
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: djangokt
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/djangokt-0.1.21/djangokt-0.1.21.tgz
+    version: 0.1.21
+  - apiVersion: v2
+    appVersion: 1.0.1
     created: "2022-05-06T18:58:57.975713862Z"
     description: A Helm chart for Kubernetes
     digest: a1116da0b1eaf8d1d44bd483a359eb33f9f1311a800656727cc0a28e14dd1d67
