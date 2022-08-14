@@ -903,6 +903,21 @@ entries:
     urls:
     - https://github.com/aspel/charts/releases/download/memcached-0.1.0/memcached-0.1.0.tgz
     version: 0.1.0
+  rust-kt:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-08-14T18:22:53.179326367Z"
+    description: A Helm chart for Kubernetes
+    digest: 086859cf827ed7f63e26fe16acc3f42b1ec2800de59cdfa36e0498864cdefbb2
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: rust-kt
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/rust-kt-0.1.3/rust-kt-0.1.3.tgz
+    version: 0.1.3
   sktg:
   - apiVersion: v2
     appVersion: 1.0.0
