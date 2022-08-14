@@ -906,6 +906,20 @@ entries:
   rust-kt:
   - apiVersion: v2
     appVersion: 1.0.0
+    created: "2022-08-14T18:53:32.059572695Z"
+    description: A Helm chart for Kubernetes
+    digest: 2cba5556d11f3281f43ea61c72bca035ba6d900b29dab522f62caa88fd04ed7b
+    maintainers:
+    - email: 1@1.net
+      name: hei
+      url: https://app.io
+    name: rust-kt
+    type: application
+    urls:
+    - https://github.com/aspel/charts/releases/download/rust-kt-0.1.6/rust-kt-0.1.6.tgz
+    version: 0.1.6
+  - apiVersion: v2
+    appVersion: 1.0.0
     created: "2022-08-14T18:47:22.841930205Z"
     description: A Helm chart for Kubernetes
     digest: c3f95cb577579a67575b0166cf0a1a6b5b192aa6baf84ebdbe122a28b786883b
